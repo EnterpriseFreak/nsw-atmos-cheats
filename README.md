@@ -7,3 +7,4 @@ Before using these you might want to disable atmosphere's automatic cheat enabli
 | Game | Supported versions |
 | :--: | :----------------: |
 | Super Mario Odyssey | v1.0.0, v1.3.0 |
+| ??? | v1.0.0 |
